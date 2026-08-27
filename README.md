@@ -2,7 +2,7 @@
 A Manual Archieplago randomizer for _Skylanders Trap Team_.
 
 It allows for the "Randomization" of aspects in the game, such as Skylanders, Traps, Villains, and Hats using [Archipelago](https://archipelago.gg).  
-These can be distributed across a [Multiworld](https://archipelago.gg/faq/en/#what-is-a-multiworld) to enable items and progression to be shared across multiple different games.
+These can be distributed across a Multiworld to enable items and progression to be shared across multiple different games.
 
 ## What can be Randomized?
 - Skylanders
@@ -32,12 +32,33 @@ You are locked to Skylander's Academy until you receive a "Level Unlock" item, w
 Currently there is only one goal ***Defeat Kaos***.  
 Within the Multiworld is 20 (By Default) _Traptanium Kaos Shards_, only 10 are required for the Kaos Boss Fight to become available.
 
+> The website [Dark Spyro](https://www.darkspyro.net/trapteam/walkthrough/) is incredibly useful if you are unfamiliar with the game, as it details where every Item Check is
+
 ## Requirements to Play
-- A Copy of Skylanders Trap Team
+- [Cemu Emulator](https://cemu.info)
+- A Copy of Skylanders Trap Team, with a Completed Save File
+  - The Save File provided is on Nightmare Difficulty, a Second File on the Lower Difficulties may be uploaded at a later date
+- Every Trap Master, Core, Mini, Trap, and Expansion Pack introduced in Skylanders Trap Team
 - Archipelago (Website)
 - Archipelago (Launcher)
 - Archipelago (Manual Client)
   - Recommended: [Universal Tracker](https://archipelago.miraheze.org/wiki/Universal_Tracker)
+
+## Skylanders Setup
+1.) Open Cemu and provide it with a Skylanders Trap Team .wua file.
+
+2.) On the Cemu home menu, right click Skylanders Trap Team and select "save directory".
+
+3.) This should open a file path that ends with "1017c600", being the designation for the game.
+
+4.) Select "user" and then "80000001", this is the save data folder.
+
+5.) Download the "Save_Slot_4" file and drop it into this folder.
+  - If prompted to replace the file, select yes
+
+6.) Now when re-opening the game, there should be a Nightmare Difficulty save file on slot 4.
+
+- When playing the Randomizer, it is intended to start with wiped Skylanders. _(use the in-game menu to delete their data)_
 
 ## Archipelago Setup
 1.) Download the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases).
