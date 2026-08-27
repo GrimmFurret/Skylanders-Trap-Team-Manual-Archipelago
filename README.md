@@ -38,7 +38,7 @@ Within the Multiworld is 20 (By Default) _Traptanium Kaos Shards_, only 10 are r
 - [Cemu Emulator](https://cemu.info)
 - A Copy of Skylanders Trap Team, with a Completed Save File
   - The Save File provided is on Nightmare Difficulty, a Second File on the Lower Difficulties may be uploaded at a later date
-- Every Trap Master, Core, Mini, Trap, and Expansion Pack introduced in Skylanders Trap Team
+- Every Trap Master, Core, Mini, Expansion Pack, and at least one Trap of each element.
 - Archipelago (Website)
 - Archipelago (Launcher)
 - Archipelago (Manual Client)
