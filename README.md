@@ -1,5 +1,5 @@
 # Manual Skylanders Trap Team Randomizer
-A Manual Archieplago randomizer for _Skylanders Trap Team_.
+A Manual Archipelago randomizer for _Skylanders Trap Team_.
 
 It allows for the "Randomization" of aspects in the game, such as Skylanders, Traps, Villains, and Hats using [Archipelago](https://archipelago.gg).  
 These can be distributed across a Multiworld to enable items and progression to be shared across multiple different games.
