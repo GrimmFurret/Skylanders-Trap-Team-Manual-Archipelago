@@ -67,8 +67,7 @@ Within the Multiworld is 20 (By Default) _Traptanium Kaos Shards_, only 10 are r
 
 3.) Launch the Archipelago Launcher and drag the .apworld file into the client. Restart the Archipelago Launcher after installing the apworld.
 
-4.) Download the Trap Team Randomizer's latest release .yaml file  
-  - Currently, the .apworld does not work with Archipelago's in-built "options creator", so this is the fix for now
+4.) Use the Archipelago Launcher's in-built "Options Creator" to make your own .yaml file
 
 5.) Place the .yaml into the Archipelago 'Players' folder alongside any other .yaml that you will be using for your Multiworld.
 
